@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj": {}
+    "C:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj": {
+    "C:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj",
+        "projectUniqueName": "C:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj",
         "projectName": "TrackUniversal",
-        "projectPath": "c:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj",
+        "projectPath": "C:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\TrackUniversal.csproj",
         "packagesPath": "C:\\Users\\mckuc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\obj\\",
+        "outputPath": "C:\\Users\\mckuc\\source\\repos\\C#\\Api\\TrackUniversal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
